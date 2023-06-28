@@ -1,0 +1,335 @@
+body {
+  background: url(https://gamerwall.pro/uploads/posts/2022-03/1647857572_1-gamerwall-pro-p-fon-dlya-saita-krasivie-1.jpg) center/cover no-repeat fixed;
+  background-repeat: no-repeat;
+  
+}
+div
+{
+    float: left;
+}
+.text_d p{
+    font-family: Caveat;
+}
+.img100 {
+    width:100%;
+    height:10%;
+    background-image: url(logo2.png);
+    background-repeat: no-repeat;
+	background-size: cover; 
+	margin: 0;
+}
+span
+{
+    font-size: 1.5rem;
+    font-family:cursive;
+}
+
+div.ref
+{
+    background-color:rgb(0,255,255);
+    text-align: center;
+    width: 33.3%;
+    height: auto;
+}
+div.ref:hover
+{
+    background-color:#00FFFF;
+}
+a.page-link
+{
+	
+    background-color:RGB(0,255,255);
+}
+a.p
+{
+	float: center;
+    background-color:RGB(34,139,34);
+	color: white;
+}
+div.fonA
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 10%;
+height: 875px;
+margin: 1% 1% 1% 1%;
+}
+img.pict
+{
+    width:100px;
+    height:100px;
+    padding: 6% 2%;
+}
+div.fonB
+{
+display: flex;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 80%;
+height: 875px;
+margin: 1% 0% 1% 0%;
+}
+div.allIn
+{
+	display: flex;
+    margin-top: 45px;
+    margin-right: 25px;
+}
+div.text
+{
+    float: right;
+    height: auto;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+div.textInBlock
+{
+    float: right;
+    height: 90%;
+    width: 95%;
+}
+p.bigText
+{
+    color: #008d2f;
+    font-family: cursive;
+    font-size: 25px;   
+    font-weight: bold;
+    text-align: right;
+    padding-right: 15px;
+    margin: 1%;
+}
+p.About
+{
+	display: flex;
+    text-indent: 17px;
+    font-size: 20px; 
+    font-family: serif;
+    padding-right: 10px;
+    padding-left: 0px;
+    text-align: justify;
+    color:#02030c;
+}
+img.p
+{
+    width: 60%;
+    height: auto;
+}
+div.fonA1
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 10%;
+height: 1000px;
+margin: 1% 1% 1% 1%;
+}
+div.fonB1
+{
+	display: flex;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 80%;
+height: 1000px;
+margin: 1% 0% 1% 0%;
+}
+div.text1
+{
+    float: right;
+    height: auto;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+img.p1
+{
+    width: 60%;
+    height: auto;
+}
+div.fonA2
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 150px;
+height: 1365px;
+margin: 1% 1% 1% 1%;
+}
+div.fonB2
+{
+	display: flex;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 75%;
+height: 1365px;
+margin: 1% 0% 1% 0%;
+}
+div.text2
+{
+    float: right;
+    height: 1285px;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+div.fonA3
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 150px;
+height: 1215px;
+margin: 1% 1% 1% 1%;
+}
+div.fonB3
+{
+display: flex;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 75%;
+height: 1215px;
+margin: 1% 0% 1% 0%;
+}
+div.text3
+{
+    float: right;
+    height: 1120px;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+div.fonA4
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 150px;
+height: 1090px;
+margin: 1% 1% 1% 1%;
+}
+div.fonB4
+{
+	display: flex;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 75%;
+height: 1090px;
+margin: 1% 0% 1% 0%;
+}
+div.text4
+{
+    float: right;
+    height: 990px;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+img.p2
+{
+    width: 75%;
+    height: auto;
+
+}
+img.p3
+{
+    width: 75%;
+    height: auto; 
+}
+div.end1
+{
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 6px;
+}
+div.end 
+{
+    margin: 0 6px;
+}
+div.fonAa
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 150px;
+height: 1385px;
+margin: 1% 1% 1% 1%;
+}
+div.fonBa
+{
+	display: flex;
+float: center;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 75%;
+height: auto;
+margin: 1% 0% 1% 0%;
+}
+div.texta
+{
+    float: right;
+    height: auto;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+img.pa
+{
+    width:850px;
+    height:550px;
+
+}
+div.fonAa1
+{
+float: right;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+width: 150px;
+height: auto;
+margin: 1% 1% 1% 1%;
+}
+
+div.fonBa1
+{
+	display: flex;
+float: center;
+background-color: rgba(247, 225, 245, 0.382); ;
+text-align: center;
+border-radius: 50px;
+width: 75%;
+height: auto;
+margin: 1% 0% 1% 0%;
+}
+
+div.texta1
+{
+    float: right;
+    height: auto;
+    width: 97%;
+    border-radius: 100px 0px 0px 100px;
+    background-color: rgba(255, 203, 185, 0.705);
+}
+div.halfPhoto
+{
+	float: center;
+    height: 100px;
+    width: 200px;
+    margin: 70px;
+}
+
+div.pfoto
+{
+    display: flex;
+    justify-content: center;
+ }
+ img.p4
+{
+    width:100%x;
+    height:auto;
+}
